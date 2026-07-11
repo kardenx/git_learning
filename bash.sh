@@ -5,3 +5,5 @@ do
    echo The counter is $COUNTER 
    let COUNTER=$COUNTER+1 
 done
+
+# adding some changes to commit in side_branch
